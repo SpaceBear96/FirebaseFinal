@@ -1,4 +1,4 @@
-package spacebar.com.firebasefinal;
+package pe.leidy_cs.labcalificadov2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("spacebar.com.firebasefinal", appContext.getPackageName());
+        assertEquals("pe.leidy_cs.labcalificadov2", appContext.getPackageName());
     }
 }
